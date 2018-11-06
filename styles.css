@@ -1,0 +1,7 @@
+body{
+    background-image: url("https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/50913-iStock-638589782.jpg?itok=6qDgeWq1&resize=1100x1100");
+    text-align:center;
+}
+.img{
+    display:flex;
+}
